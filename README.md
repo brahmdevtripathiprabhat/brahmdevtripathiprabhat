@@ -1,4 +1,4 @@
-![logo](https://github.com/Raviiii-Ai/Raviiii-Ai/blob/main/github_photo.png)
+
 # 💫 About Me:
 
 🔭 I’m currently working on Building GSV library system<br>🌱 I’m currently learning Web Development and DSA <be>
