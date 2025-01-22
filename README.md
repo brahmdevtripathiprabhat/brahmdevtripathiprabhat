@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 
-🔭 I’m currently working on Building GSV library system<br>🌱 I’m currently learning Web Development and DSA <be>
+🌱 I’m currently learning Web Development and DSA <be>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=brahmdevtripathiprabhat&theme=nord&no-frame=true&no-bg=true&margin-w=4)
